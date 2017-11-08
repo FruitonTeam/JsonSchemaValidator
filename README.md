@@ -8,6 +8,8 @@ To use the app just grab a zip from Releases folder and run `dotnet JsonSchemaVa
 
 Validation errors will be output to the command line.
 
+You can test the app by running it on `FruitDb.schema.json` and `FruitDb.json` from this repo.
+
 ### Deployment to Bamboo
 1. Open in Visual studio 2017 (or vim?)
 1. Change what you want
